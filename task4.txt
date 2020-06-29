@@ -1,0 +1,33 @@
+H A N G M A N
+ 
+----------
+Input a letter: > a
+ 
+-a-a------
+Input a letter: > i
+ 
+-a-a---i--
+Input a letter: > o
+No such letter in the word
+ 
+-a-a---i--
+Input a letter: > z
+No such letter in the word
+ 
+-a-a---i--
+Input a letter: > p
+No such letter in the word
+ 
+-a-a---ip-
+Input a letter: > p
+ 
+-a-a---ip-
+Input a letter: > h
+No such letter in the word
+ 
+-a-a---ip-
+Input a letter: > k
+No such letter in the word
+ 
+Thanks for playing!
+We'll see how well you did in the next stage
